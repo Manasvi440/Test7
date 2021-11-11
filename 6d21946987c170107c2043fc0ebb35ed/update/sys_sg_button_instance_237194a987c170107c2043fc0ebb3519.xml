@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Incident)">e77194a987c170107c2043fc0ebb3500</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Incident)</name>
+        <order/>
+        <parent>e3719c6987c170107c2043fc0ebb35cd</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-29 09:42:02</sys_created_on>
+        <sys_id>237194a987c170107c2043fc0ebb3519</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Incident)</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_button_instance_237194a987c170107c2043fc0ebb3519</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-29 09:42:02</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=237194a987c170107c2043fc0ebb3519"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2021-07-13 12:13:10</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-13 12:13:10</sys_created_on>
+        <sys_id>865a748a871130107c2043fc0ebb3595</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fQEvWEx0Snabz24dBAi94_:APA91bGnv-KIsG_qjS9pcFWE-6oo3uzqARJckO9SDVSR4qb7qYnjHq4I-_u4YViEwOa8a4rye_dmc-Tk7lQ1BHqyTHcOkM91dOVXTXnWnK2VIW1fuJPqKY-NWgawUd27zsDPOD83eRWS</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_865a748a871130107c2043fc0ebb3595</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-13 12:13:10</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>fQEvWEx0Snabz24dBAi94_:APA91bGnv-KIsG_qjS9pcFWE-6oo3uzqARJckO9SDVSR4qb7qYnjHq4I-_u4YViEwOa8a4rye_dmc-Tk7lQ1BHqyTHcOkM91dOVXTXnWnK2VIW1fuJPqKY-NWgawUd27zsDPOD83eRWS</token>
+    </sys_push_notif_app_install>
+</record_update>

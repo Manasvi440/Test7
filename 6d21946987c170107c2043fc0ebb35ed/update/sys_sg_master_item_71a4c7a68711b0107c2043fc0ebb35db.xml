@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>incident</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen/>
+        <item_view display_value="Applet Nav 1 Item View">21a4c7a68711b0107c2043fc0ebb35d2</item_view>
+        <name>Applet Nav 1 Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-15 11:34:23</sys_created_on>
+        <sys_id>71a4c7a68711b0107c2043fc0ebb35db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Applet Nav 1 Master Item</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_master_item_71a4c7a68711b0107c2043fc0ebb35db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-15 11:34:23</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Go to My List Count">a435986d87c170107c2043fc0ebb3522</jump_to_screen>
+        <name>My Incident Count</name>
+        <report display_value="My Incident Count">56f09c6987c170107c2043fc0ebb35b6</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-29 09:43:37</sys_created_on>
+        <sys_id>0fd118a987c170107c2043fc0ebb353c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Incident Count</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_chart_0fd118a987c170107c2043fc0ebb353c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-29 09:59:02</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

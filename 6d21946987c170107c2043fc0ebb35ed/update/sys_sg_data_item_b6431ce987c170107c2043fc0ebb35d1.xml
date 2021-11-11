@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>instance_relative_url</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc>{{My Param1}}</instance_relative_url_qc>
+        <name>My Chart Count List Data Item</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-29 09:49:53</sys_created_on>
+        <sys_id>b6431ce987c170107c2043fc0ebb35d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Chart Count List Data Item</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_data_item_b6431ce987c170107c2043fc0ebb35d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-29 09:53:55</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b6431ce987c170107c2043fc0ebb35d1"/>
+</record_update>

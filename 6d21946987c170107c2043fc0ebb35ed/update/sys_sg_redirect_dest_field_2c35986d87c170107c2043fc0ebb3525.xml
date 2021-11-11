@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Go to My List Count">a435986d87c170107c2043fc0ebb3522</button>
+        <button_table/>
+        <constant_value/>
+        <destination_ui_parameter display_value="My Param1">37b4d06d87c170107c2043fc0ebb353f</destination_ui_parameter>
+        <source_field/>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-29 09:58:12</sys_created_on>
+        <sys_id>2c35986d87c170107c2043fc0ebb3525</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>37b4d06d87c170107c2043fc0ebb353f</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_2c35986d87c170107c2043fc0ebb3525</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-29 09:58:12</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

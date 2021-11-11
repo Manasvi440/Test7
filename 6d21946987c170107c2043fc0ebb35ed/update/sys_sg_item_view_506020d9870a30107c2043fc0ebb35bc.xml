@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>sys_group_by-22123,sys_count-22124</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":0,"Bottom":0},"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"Text":"","CellId":"sys_group_by","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":16},"Id":22123},{"Type":"Text","Margin":{"Right":8},"Text":"9999","CellId":"sys_count","TextColor":"#7d8a8c","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":14},"Id":22124},{"Type":"Text","Margin":{},"Width":20,"Text":"","TextColor":"#a7b0b2","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":14,"Name":"icomoon"},"Id":22125}],"Height":68,"Id":28090,"studio_card_id":"66291e28b70333008da985a9de11a9a9"}</item_view_json>
+        <name>Group by priority Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-17 09:11:22</sys_created_on>
+        <sys_id>506020d9870a30107c2043fc0ebb35bc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Group by priority Item View</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_item_view_506020d9870a30107c2043fc0ebb35bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-17 09:20:25</sys_updated_on>
+        <table>incident</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=506020d9870a30107c2043fc0ebb35bc"/>
+</record_update>

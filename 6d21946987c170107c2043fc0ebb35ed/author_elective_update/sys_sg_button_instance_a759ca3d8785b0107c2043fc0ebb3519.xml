@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Hardware Categories">bc25ca798785b0107c2043fc0ebb354a</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label/>
+        <location>list_item</location>
+        <name/>
+        <order/>
+        <parent>58f40e798785b0107c2043fc0ebb3516</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-30 13:04:15</sys_created_on>
+        <sys_id>a759ca3d8785b0107c2043fc0ebb3519</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_button_instance_a759ca3d8785b0107c2043fc0ebb3519</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-30 13:04:15</sys_updated_on>
+        <table>sc_category</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=a759ca3d8785b0107c2043fc0ebb3519"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</application>
+        <file_path/>
+        <instance_id>cfd1f1d6db7b5380536ad5b0cf961948</instance_id>
+        <instance_name>dev69885</instance_name>
+        <name>sys_sg_button_instance_a759ca3d8785b0107c2043fc0ebb3519</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Hardware Categories">bc25ca798785b0107c2043fc0ebb354a</button><color_theme>primary</color_theme><description/><field_name/><icon/><label/><location>list_item</location><name/><order/><parent>58f40e798785b0107c2043fc0ebb3516</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-30 13:04:15</sys_created_on><sys_id>a759ca3d8785b0107c2043fc0ebb3519</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package><sys_policy/><sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope><sys_update_name>sys_sg_button_instance_a759ca3d8785b0107c2043fc0ebb3519</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-30 13:04:15</sys_updated_on><table>sc_category</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=a759ca3d8785b0107c2043fc0ebb3519"/></record_update>]]></payload>
+        <payload_hash>-1969525980</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2d2150a987c170107c2043fc0ebb353c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-30 13:04:15</sys_created_on>
+        <sys_id>67598a7d8785b0107c2043fc0ebb35b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a5d0521b60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-30 13:04:15</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>af598a7d4a85b010123fbf9623b9c0b3</update_guid>
+        <update_guid_history>af598a7d4a85b010123fbf9623b9c0b3:-1969525980</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-30 13:04:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>0a560f098f2b4e49811baa1b89731bb1</sys_id>
+        <sys_metadata>a759ca3d8785b0107c2043fc0ebb3519</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_scope_delete display_value="">5449a8ac6acc4b80b5e70018b6e33010</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_a759ca3d8785b0107c2043fc0ebb3519</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_a759ca3d8785b0107c2043fc0ebb3519">67598a7d8785b0107c2043fc0ebb35b4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-30 13:04:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

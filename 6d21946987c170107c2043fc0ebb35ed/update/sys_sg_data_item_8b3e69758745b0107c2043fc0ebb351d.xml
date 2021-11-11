@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>My Aprovals</name>
+        <query_condition table="sysapproval_approver">approverDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="approver" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-30 11:05:42</sys_created_on>
+        <sys_id>8b3e69758745b0107c2043fc0ebb351d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Aprovals</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_data_item_8b3e69758745b0107c2043fc0ebb351d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-30 11:05:42</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=8b3e69758745b0107c2043fc0ebb351d"/>
+</record_update>

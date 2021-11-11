@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>New Cat</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-30 13:18:40</sys_created_on>
+        <sys_id>b6ac423187c5b0107c2043fc0ebb35f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Cat</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_data_item_b6ac423187c5b0107c2043fc0ebb35f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-30 13:18:40</sys_updated_on>
+        <table>v_st_sc_category</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b6ac423187c5b0107c2043fc0ebb35f3"/>
+</record_update>

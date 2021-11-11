@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="New Navigation Req Test">d11cd16d874230107c2043fc0ebb35fd</button>
+        <button_table>sysapproval_approver</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="Test 1">8dcbdd2d874230107c2043fc0ebb35cf</destination_ui_parameter>
+        <source_field>approver</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-18 08:10:42</sys_created_on>
+        <sys_id>951c156d874230107c2043fc0ebb3500</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>8dcbdd2d874230107c2043fc0ebb35cf</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_951c156d874230107c2043fc0ebb3500</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 08:16:21</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

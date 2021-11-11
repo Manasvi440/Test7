@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_content_section_m2m_item_stream_container">
+    <sys_sg_content_section_m2m_item_stream_container action="INSERT_OR_UPDATE">
+        <content_section display_value="My Content">9fabe212878134107c2043fc0ebb35f8</content_section>
+        <item_stream_container display_value="My Content">88cb6612878134107c2043fc0ebb353b</item_stream_container>
+        <order/>
+        <sys_class_name>sys_sg_content_section_m2m_item_stream_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-02 04:51:37</sys_created_on>
+        <sys_id>eabb2612878134107c2043fc0ebb35c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_content_section_m2m_item_stream_container_eabb2612878134107c2043fc0ebb35c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-02 04:51:37</sys_updated_on>
+    </sys_sg_content_section_m2m_item_stream_container>
+</record_update>

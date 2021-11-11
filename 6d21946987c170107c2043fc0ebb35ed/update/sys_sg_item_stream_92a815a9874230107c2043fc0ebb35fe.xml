@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Test Req Data">c6981169874230107c2043fc0ebb3503</data_item>
+        <interleaved_field/>
+        <name>Test Request Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-18 07:55:45</sys_created_on>
+        <sys_id>92a815a9874230107c2043fc0ebb35fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Request Item Stream</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_item_stream_92a815a9874230107c2043fc0ebb35fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 07:55:45</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_item_stream>
+</record_update>

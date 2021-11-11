@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Go to Time Series Applet">10b8d0ed87c170107c2043fc0ebb35b9</jump_to_screen>
+        <name>My Time series</name>
+        <report display_value="Create Time Series Report">b7d69cad87c170107c2043fc0ebb359c</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-29 10:07:03</sys_created_on>
+        <sys_id>523754ed87c170107c2043fc0ebb354b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Time series</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_chart_523754ed87c170107c2043fc0ebb354b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-29 10:13:42</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_screen">
+    <sys_sg_navigation_section_destination_screen action="INSERT_OR_UPDATE">
+        <applet display_value="My Chart Test">ab8f18a5870570107c2043fc0ebb350a</applet>
+        <icon display_value="Home">64c909a2b72200108223e126de11a91d</icon>
+        <name>My Inci</name>
+        <sys_class_name>sys_sg_navigation_section_destination_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-13 14:38:31</sys_created_on>
+        <sys_id>e08b9d06879130107c2043fc0ebb3589</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Inci</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_screen_e08b9d06879130107c2043fc0ebb3589</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-13 14:38:31</sys_updated_on>
+    </sys_sg_navigation_section_destination_screen>
+</record_update>

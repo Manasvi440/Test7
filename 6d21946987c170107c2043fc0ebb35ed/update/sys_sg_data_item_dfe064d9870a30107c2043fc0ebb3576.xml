@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>selected data item prio</name>
+        <query_condition table="incident">priority={{Num}}<item display_value="{{Num}}" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="{{Num}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-17 09:13:46</sys_created_on>
+        <sys_id>dfe064d9870a30107c2043fc0ebb3576</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>selected data item prio</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_data_item_dfe064d9870a30107c2043fc0ebb3576</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-17 09:14:21</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=dfe064d9870a30107c2043fc0ebb3576"/>
+</record_update>

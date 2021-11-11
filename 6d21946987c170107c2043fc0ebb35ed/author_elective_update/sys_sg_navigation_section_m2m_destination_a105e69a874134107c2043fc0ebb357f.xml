@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination">
+    <sys_sg_navigation_section_m2m_destination action="DELETE">
+        <navigation_section display_value="My Navigation Section-Manas">5dd4269a874134107c2043fc0ebb35e9</navigation_section>
+        <navigation_section_destination display_value="My Navigation Test">3b256a9a874134107c2043fc0ebb3572</navigation_section_destination>
+        <order/>
+        <sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-02 04:23:35</sys_created_on>
+        <sys_id>a105e69a874134107c2043fc0ebb357f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_a105e69a874134107c2043fc0ebb357f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-02 04:23:35</sys_updated_on>
+    </sys_sg_navigation_section_m2m_destination>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</application>
+        <file_path/>
+        <instance_id>cfd1f1d6db7b5380536ad5b0cf961948</instance_id>
+        <instance_name>dev69885</instance_name>
+        <name>sys_sg_navigation_section_m2m_destination_a105e69a874134107c2043fc0ebb357f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination"><sys_sg_navigation_section_m2m_destination action="INSERT_OR_UPDATE"><navigation_section display_value="My Navigation Section-Manas">5dd4269a874134107c2043fc0ebb35e9</navigation_section><navigation_section_destination display_value="My Navigation Test">3b256a9a874134107c2043fc0ebb3572</navigation_section_destination><order/><sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-02 04:23:35</sys_created_on><sys_id>a105e69a874134107c2043fc0ebb357f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package><sys_policy/><sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope><sys_update_name>sys_sg_navigation_section_m2m_destination_a105e69a874134107c2043fc0ebb357f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-02 04:23:35</sys_updated_on></sys_sg_navigation_section_m2m_destination></record_update>]]></payload>
+        <payload_hash>1275667810</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2d2150a987c170107c2043fc0ebb353c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-02 04:23:36</sys_created_on>
+        <sys_id>14652a9a874134107c2043fc0ebb3593</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a65752d420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-02 04:23:36</sys_updated_on>
+        <type>Navigation Section Destinations</type>
+        <update_guid>5c652a9a3a413410efea6af2b12fad92</update_guid>
+        <update_guid_history>5c652a9a3a413410efea6af2b12fad92:1275667810</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-02 04:47:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_navigation_section_m2m_destination">sys_sg_navigation_section_m2m_destination</sys_db_object>
+        <sys_id>3eabf161018740389d45ea26edbd3240</sys_id>
+        <sys_metadata>a105e69a874134107c2043fc0ebb357f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_scope_delete display_value="">5449a8ac6acc4b80b5e70018b6e33010</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_a105e69a874134107c2043fc0ebb357f</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_section_m2m_destination_a105e69a874134107c2043fc0ebb357f">14652a9a874134107c2043fc0ebb3593</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-02 04:47:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_294577_my_chart.glide.sg.voice_search.enabled</name>
+        <read_roles/>
+        <suffix>glide.sg.voice_search.enabled</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 11:47:06</sys_created_on>
+        <sys_id>b6ddf5da871170107c2043fc0ebb357b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_294577_my_chart.glide.sg.voice_search.enabled</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_properties_b6ddf5da871170107c2043fc0ebb357b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 11:47:06</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=b6ddf5da871170107c2043fc0ebb357b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</application>
+        <file_path/>
+        <instance_id>cfd1f1d6db7b5380536ad5b0cf961948</instance_id>
+        <instance_name>dev69885</instance_name>
+        <name>sys_properties_b6ddf5da871170107c2043fc0ebb357b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>false</ignore_cache><is_private>false</is_private><name>x_294577_my_chart.glide.sg.voice_search.enabled</name><read_roles/><suffix>glide.sg.voice_search.enabled</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-14 11:47:06</sys_created_on><sys_id>b6ddf5da871170107c2043fc0ebb357b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_294577_my_chart.glide.sg.voice_search.enabled</sys_name><sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package><sys_policy/><sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope><sys_update_name>sys_properties_b6ddf5da871170107c2043fc0ebb357b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-14 11:47:06</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=b6ddf5da871170107c2043fc0ebb357b"/></record_update>]]></payload>
+        <payload_hash>947347371</payload_hash>
+        <record_name>x_294577_my_chart.glide.sg.voice_search.enabled</record_name>
+        <reverted_from/>
+        <source>2d2150a987c170107c2043fc0ebb353c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 11:47:08</sys_created_on>
+        <sys_id>66fdfdda871170107c2043fc0ebb35f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17aa4d78ec50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 11:47:08</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>2afdfdda93117010e084913a75a3c4f1</update_guid>
+        <update_guid_history>2afdfdda93117010e084913a75a3c4f1:947347371</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 11:48:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>6a9c26ca9e3c4180ad08c5cc08ef9a40</sys_id>
+        <sys_metadata>b6ddf5da871170107c2043fc0ebb357b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_294577_my_chart.glide.sg.voice_search.enabled</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_scope_delete display_value="">5449a8ac6acc4b80b5e70018b6e33010</sys_scope_delete>
+        <sys_update_name>sys_properties_b6ddf5da871170107c2043fc0ebb357b</sys_update_name>
+        <sys_update_version display_value="sys_properties_b6ddf5da871170107c2043fc0ebb357b">66fdfdda871170107c2043fc0ebb35f2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 11:48:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

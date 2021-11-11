@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f2b9","Name":"icon-Address-Book","FontColor":"#E65651","BackgroundColor":"#E65651"}</icon>
+        <name>icon-Address-Book</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-30 12:44:54</sys_created_on>
+        <sys_id>9cf4c6798785b0107c2043fc0ebb35a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>icon-Address-Book</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_icon_9cf4c6798785b0107c2043fc0ebb35a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-01 06:57:43</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

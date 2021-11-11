@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>script</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Test Req Data</name>
+        <query_condition/>
+        <query_condition_script><![CDATA[(function getQueryString(input) {
+
+   
+    gs.info("hey"+input.Test)
+    
+
+    })(input);]]></query_condition_script>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-18 07:55:27</sys_created_on>
+        <sys_id>c6981169874230107c2043fc0ebb3503</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Test Req Data</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_data_item_c6981169874230107c2043fc0ebb3503</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 08:19:05</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c6981169874230107c2043fc0ebb3503"/>
+</record_update>

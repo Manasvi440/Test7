@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">1311f4bd8741b0107c2043fc0ebb3593</embedded_screen>
+        <form display_value="test 1">1711f4bd8741b0107c2043fc0ebb3590</form>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-30 06:38:39</sys_created_on>
+        <sys_id>5f11f4bd8741b0107c2043fc0ebb3595</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_form_segment_5f11f4bd8741b0107c2043fc0ebb3595</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-30 06:38:39</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

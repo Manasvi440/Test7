@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="DELETE">
+        <button display_value="New Navigation Test Final">364358dd87c630107c2043fc0ebb3512</button>
+        <button_table>sysapproval_approver</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="ID 1">203fd859870a30107c2043fc0ebb350e</destination_ui_parameter>
+        <source_field/>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-18 07:13:07</sys_created_on>
+        <sys_id>f1ee41a1874230107c2043fc0ebb35fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>203fd859870a30107c2043fc0ebb350e</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_f1ee41a1874230107c2043fc0ebb35fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 07:13:07</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</application>
+        <file_path/>
+        <instance_id>cfd1f1d6db7b5380536ad5b0cf961948</instance_id>
+        <instance_name>dev69885</instance_name>
+        <name>sys_sg_redirect_dest_field_f1ee41a1874230107c2043fc0ebb35fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field"><sys_sg_redirect_dest_field action="INSERT_OR_UPDATE"><button display_value="New Navigation Test Final">364358dd87c630107c2043fc0ebb3512</button><button_table>sysapproval_approver</button_table><constant_value/><destination_ui_parameter display_value="ID 1">203fd859870a30107c2043fc0ebb350e</destination_ui_parameter><source_field/><source_ui_parameter/><sys_class_name>sys_sg_redirect_dest_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-18 07:13:07</sys_created_on><sys_id>f1ee41a1874230107c2043fc0ebb35fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>203fd859870a30107c2043fc0ebb350e</sys_name><sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package><sys_policy/><sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope><sys_update_name>sys_sg_redirect_dest_field_f1ee41a1874230107c2043fc0ebb35fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-18 07:13:07</sys_updated_on><type>field</type></sys_sg_redirect_dest_field></record_update>]]></payload>
+        <payload_hash>1909761485</payload_hash>
+        <record_name>203fd859870a30107c2043fc0ebb350e</record_name>
+        <reverted_from/>
+        <source>2d2150a987c170107c2043fc0ebb353c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-18 07:13:07</sys_created_on>
+        <sys_id>06ee41a1874230107c2043fc0ebb35fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b581b463c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 07:13:07</sys_updated_on>
+        <type>Redirection destination fields</type>
+        <update_guid>4eee41a146423010c415625187f07ffd</update_guid>
+        <update_guid_history>4eee41a146423010c415625187f07ffd:1909761485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-18 07:13:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_redirect_dest_field">sys_sg_redirect_dest_field</sys_db_object>
+        <sys_id>180fa1abfb2e41ed99546edb9dfb2ea9</sys_id>
+        <sys_metadata>f1ee41a1874230107c2043fc0ebb35fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>203fd859870a30107c2043fc0ebb350e</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_scope_delete display_value="">5449a8ac6acc4b80b5e70018b6e33010</sys_scope_delete>
+        <sys_update_name>sys_sg_redirect_dest_field_f1ee41a1874230107c2043fc0ebb35fb</sys_update_name>
+        <sys_update_version display_value="sys_sg_redirect_dest_field_f1ee41a1874230107c2043fc0ebb35fb">06ee41a1874230107c2043fc0ebb35fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 07:13:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

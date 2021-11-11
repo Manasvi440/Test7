@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>problem</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Test</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	var gr='a,b,d,e,f';
+	var res=gr.split(',');
+	var arrayUtil = new ArrayUtil();
+	gs.addInfoMessage(arrayUtil.contains(res, 'a'));
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-02 11:05:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd01cc6a878534107c2043fc0ebb35f3</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_script_cd01cc6a878534107c2043fc0ebb35f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-02 11:25:51</sys_updated_on>
+        <template/>
+        <when>before_display</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=cd01cc6a878534107c2043fc0ebb35f3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</application>
+        <file_path/>
+        <instance_id>cfd1f1d6db7b5380536ad5b0cf961948</instance_id>
+        <instance_name>dev69885</instance_name>
+        <name>sys_script_cd01cc6a878534107c2043fc0ebb35f3</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;problem&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Test&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	var gr='a,b,d,e,f';
+	var res=gr.split(',');
+	var arrayUtil = new ArrayUtil();
+	gs.addInfoMessage(arrayUtil.contains(res, 'a'));
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-02 11:05:54&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;cd01cc6a878534107c2043fc0ebb35f3&lt;/sys_id&gt;&lt;sys_mod_count&gt;13&lt;/sys_mod_count&gt;&lt;sys_name&gt;Test&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="My Chart Application" source="x_294577_my_chart"&gt;6d21946987c170107c2043fc0ebb35ed&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="My Chart Application"&gt;6d21946987c170107c2043fc0ebb35ed&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_cd01cc6a878534107c2043fc0ebb35f3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-02 11:25:51&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before_display&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=cd01cc6a878534107c2043fc0ebb35f3"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>478530307</payload_hash>
+        <record_name>Test</record_name>
+        <reverted_from/>
+        <source>2d2150a987c170107c2043fc0ebb353c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-02 11:25:51</sys_created_on>
+        <sys_id>710644ae878534107c2043fc0ebb353f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a66f7c50a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-02 11:25:51</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>390644ae368534102ed5d89ab480803e</update_guid>
+        <update_guid_history>390644ae368534102ed5d89ab480803e:478530307,f2f5cc6e13853410b3cefe6879a8fcc4:-170443656,13e580eaa785341043ab6eba98e26fcb:-1361367653,429588ea4585341065884776ed58581d:1545414082,1af488eadb853410b6a61b8d9763d606:-1707105689,a7a28caafc853410f3ac9e9e3383df07:-1513770314,679248ea0785341070b49b82d78eca74:524025967,987284ea8a8534109879595085a60fd8:1685653370,271280ea1b85341050861f18867b5039:1359012583,11e10caa53853410ca66b225c8e3be1f:877170103,bfc10caa3c85341071fbba6dbc94c9a5:2105374435,ccb1c8aa09853410377642f7eda9cace:-1435897987,b581802a87853410ab1e472ba047ad4b:309842346,657144aa37853410bbb674edb48469cb:1809378878</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-02 11:29:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>18178b0574614f14b2ca8c2177bc4210</sys_id>
+        <sys_metadata>cd01cc6a878534107c2043fc0ebb35f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_parent display_value="Problem">d2253b04c927101091f9f064648327e8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_scope_delete display_value="">5449a8ac6acc4b80b5e70018b6e33010</sys_scope_delete>
+        <sys_update_name>sys_script_cd01cc6a878534107c2043fc0ebb35f3</sys_update_name>
+        <sys_update_version display_value="sys_script_cd01cc6a878534107c2043fc0ebb35f3">710644ae878534107c2043fc0ebb353f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-02 11:29:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

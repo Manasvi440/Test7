@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc>{{Num}}</instance_relative_url_qc>
+        <name>Request Data Item Form</name>
+        <query_condition table="sc_req_item">sys_id={{Num}}<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="{{Num}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-17 08:44:26</sys_created_on>
+        <sys_id>b53a9055870a30107c2043fc0ebb35da</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Request Data Item Form</sys_name>
+        <sys_package display_value="My Chart Application" source="x_294577_my_chart">6d21946987c170107c2043fc0ebb35ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Chart Application">6d21946987c170107c2043fc0ebb35ed</sys_scope>
+        <sys_update_name>sys_sg_data_item_b53a9055870a30107c2043fc0ebb35da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-17 08:56:32</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b53a9055870a30107c2043fc0ebb35da"/>
+</record_update>
